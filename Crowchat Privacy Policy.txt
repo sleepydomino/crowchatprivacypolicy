@@ -1,0 +1,7 @@
+Crowchat Privacy Policy
+
+This privacy policy governs your use of the software application crowchat!(“Application”) for mobile devices that was created by Marc Sacks. The Application is a simple scripted chatbot.
+Crowchat does not collect or store any user data. 
+
+Permissions
+crowchat! requires read and write permissions to store the chatbot scripts. 
